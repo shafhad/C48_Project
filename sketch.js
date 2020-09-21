@@ -25,11 +25,11 @@ function preload(){
   person1=loadImage("image/person1.png");
   person2=loadImage("image/person2.png");
   doctorimg=loadImage("image/doctor.png");
-  coronavirus=loadImage("image/coronavirus.PNG");
+  coronavirus=loadImage("image/coronavirus.png");
   policeimg=loadImage("image/police2.png");
   msgimg=loadImage("image/bg.jpg");
   bg1img=loadImage("image/bg1.jpg");
-  bg2img=loadImage("image/bg2.PNG");
+  bg2img=loadImage("image/bg2.png");
   bg3img=loadImage("image/bg3.jpg");
   text1img=loadImage("image/text1.png");
   droneimg=loadImage("image/drone.png");
